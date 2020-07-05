@@ -14,6 +14,10 @@ public class Test {
         System.out.printf("s01:" + S01);
      }
 
+    public void test() {
+
+    }
+
     /**
      *
      */
